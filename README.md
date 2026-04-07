@@ -1,4 +1,4 @@
-![](https://meusite.com/)# MTA Cyber Intelligence — Digital Risk Assessment Toolkit
+<img src="" width="300"> #MTA Cyber Intelligence — Digital Risk Assessment Toolkit
 
 Diagnóstico estratégico de exposição digital para advogados, empresas e pessoas públicas.
 
