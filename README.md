@@ -1,4 +1,6 @@
-<img src="" width="300"> #MTA Cyber Intelligence — Digital Risk Assessment Toolkit
+<img src="https://github.com/MTA-Cyber/mta-digital-risk-assessment/blob/main/logoescudo.png" width="80">  
+
+# MTA Cyber Intelligence — Digital Risk Assessment Toolkit
 
 Diagnóstico estratégico de exposição digital para advogados, empresas e pessoas públicas.
 
